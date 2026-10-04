@@ -1,11 +1,8 @@
-# README
-
 # Linux Luminarium — pwn.college Writeups
 
 My personal notes and solutions for the [Linux Luminarium](https://pwn.college/linux-luminarium/) course on **pwn.college**, covering Linux fundamentals for offensive security practice: file paths, permissions, regex, and more.
 
 > ⚠️ Real flags have been redacted from these writeups. This content is for educational/reference purposes only.
-> 
 
 ## Progress
 
@@ -13,6 +10,7 @@ My personal notes and solutions for the [Linux Luminarium](https://pwn.college/l
 | --- | --- |
 | Paths | ✅ Done |
 | Commands | ✅ Done |
+| Digesting Documentation | ✅ Done |
 | Permissions | 🔲 Not started |
 | Regex | 🔲 Not started |
 
@@ -20,6 +18,7 @@ My personal notes and solutions for the [Linux Luminarium](https://pwn.college/l
 
 - [**Pondering Paths**](./Pondering%20Paths.md) — Linux filesystem basics: absolute vs. relative paths, navigating with `.`/`..`, and how the shell expands `~` before a program ever sees it.
 - [**Comprehending Commands**](./Comprehending%20Commands.md) — Core file/command tools: `cat`, `grep`, `diff`, `ls`, `mkdir`, `find`, and symbolic links with `ln`.
+- [**Digesting Documentation**](./Digesting%20Documentation.md) — Getting help from the system: reading arguments, `man` pages, searching with `/` and `man -k`, `--help`, and the `help` builtin.
 
 ## About Me
 
