@@ -2,8 +2,6 @@
 
 https://pwn.college/linux-luminarium/man/
 
-![Module overview](images/digesting-documentation-overview.png)
-
 ---
 
 ## Learning From Documentation
