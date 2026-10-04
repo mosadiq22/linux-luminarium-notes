@@ -11,6 +11,7 @@ My personal notes and solutions for the [Linux Luminarium](https://pwn.college/l
 | Paths | ✅ Done |
 | Commands | ✅ Done |
 | Digesting Documentation | ✅ Done |
+| File Globbing | ✅ Done |
 | Permissions | 🔲 Not started |
 | Regex | 🔲 Not started |
 
@@ -19,6 +20,7 @@ My personal notes and solutions for the [Linux Luminarium](https://pwn.college/l
 - [**Pondering Paths**](./Pondering%20Paths.md) — Linux filesystem basics: absolute vs. relative paths, navigating with `.`/`..`, and how the shell expands `~` before a program ever sees it.
 - [**Comprehending Commands**](./Comprehending%20Commands.md) — Core file/command tools: `cat`, `grep`, `diff`, `ls`, `mkdir`, `find`, and symbolic links with `ln`.
 - [**Digesting Documentation**](./Digesting%20Documentation.md) — Getting help from the system: reading arguments, `man` pages, searching with `/` and `man -k`, `--help`, and the `help` builtin.
+- [**File Globbing**](./File%20Globbing.md) — Shell wildcards: `*`, `?`, `[]`, exclusion with `[^]`/`[!]`, combining multiple globs, and tab completion for files and commands.
 
 ## About Me
 
